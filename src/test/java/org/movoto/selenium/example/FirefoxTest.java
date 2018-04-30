@@ -43,6 +43,8 @@ public class FirefoxTest {
         // Alternatively the same thing can be done like this
         // driver.navigate().to(testUrl);
         driver.get(testUrl);
+        
+        //idontknow
     }
 
     @Test
